@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  print("김동성");
   runApp(const MyApp());
 }
 
