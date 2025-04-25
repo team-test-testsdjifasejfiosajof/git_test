@@ -10,7 +10,11 @@ void main() {
   print('강선호');
   print('강선호2');
   runApp(const MyApp());
+
   print('github너무 어렵다. 이화목')
+
+  print('피자');
+
 }
 
 class MyApp extends StatelessWidget {
