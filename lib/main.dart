@@ -5,6 +5,13 @@ void main() {
   print('''
   메롱
   ''');
+
+
+  print('github너무 어렵다. 이화목')
+
+  print('피자');
+
+
   print('문성용777햣 ');
   print("김동성");
   print('2차 이지영');
