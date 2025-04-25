@@ -3,10 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
   print('''
-  Watch me, don't touch me
-  Love me, don't hurt me
-  Watch me, don't touch me
-  주문 걸어, accendio
+  메롱
   ''');
 }
 
