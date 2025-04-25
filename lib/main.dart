@@ -10,8 +10,12 @@ void main() {
   print('강선호');
   print('강선호2');
   runApp(const MyApp());
+
+  print("김동성");
+
   print('2차 이지영');
   print('피자');
+
 }
 
 class MyApp extends StatelessWidget {
