@@ -8,6 +8,7 @@ void main() {
   print('문성용');
   print('이화목');
   print('강선호');
+  print('문성용2');
   runApp(const MyApp());
 }
 
