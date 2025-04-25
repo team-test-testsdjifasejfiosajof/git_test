@@ -4,6 +4,7 @@ void main() {
   print("김동성");
   print('이지영4');
   print('이지영');
+  print('문성용');
   runApp(const MyApp());
 }
 
