@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  print('문성용');
   runApp(const MyApp());
 }
 
