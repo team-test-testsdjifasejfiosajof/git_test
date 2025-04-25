@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   print('이지영');
   runApp(const MyApp());
+  print('강선호');
 }
 
 class MyApp extends StatelessWidget {
