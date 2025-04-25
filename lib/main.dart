@@ -7,6 +7,7 @@ void main() {
   print('이지영');
   print('문성용');
   print('이화목');
+  print('강선호');
   runApp(const MyApp());
 }
 
