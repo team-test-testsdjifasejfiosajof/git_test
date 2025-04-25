@@ -1,15 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  print('와따시 강지원ㄷ데스');
-  print("김동성");
-  print('이지영4');
-  print('이지영');
-  print('문성용');
-  print('이화목');
-  print('강선호');
-  print('강선호2');
   runApp(const MyApp());
+  print('''
+  메롱
+  ''');
 
 
   print('github너무 어렵다. 이화목')
@@ -21,9 +16,6 @@ void main() {
   print("김동성");
   print('2차 이지영');
   print('피자');
-
-
-
 }
 
 class MyApp extends StatelessWidget {
