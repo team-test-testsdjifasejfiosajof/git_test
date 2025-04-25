@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   print('와따시 강지원ㄷ데스');
-
+  print('이지영4');
+  print('이지영');
   runApp(const MyApp());
 }
 
